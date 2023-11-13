@@ -89,7 +89,11 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = [
 ]
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
-SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {"first binary classification task": ["melanoma","nevus_or_seborrheic_keratosis"],"second classification task":["seborrheic_keratosis", "melanoma_or_nevus"],"__POSTTEXT__": "Also, the dataset contains ***age_approximate*** and ***sex*** tags"}
+SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
+    "groups for first binary classification task": ["melanoma","nevus_or_seborrheic_keratosis"],
+    "groups for second classification task":["seborrheic_keratosis", "melanoma_or_nevus"],
+    "__POSTTEXT__": "Also, the dataset contains ***age_approximate*** and ***sex*** tags"
+}
 TAGS: Optional[List[str]] = None
 
 
