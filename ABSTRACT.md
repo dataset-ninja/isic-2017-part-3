@@ -12,7 +12,7 @@ The goal of the challenge is to help participants develop image analysis tools t
 
 For each, data consisted of images and corresponding ground truth annotations, split into training (n=2000), validation (n=150), and holdout test (n=600) datasets. Predictions could be submitted on validation and test datasets. The validation submissions provided instantaneous feedback in the form of performance evaluations, as well as ranking in comparison to other participants. Test submissions only provided feedback after the submission deadline.
 
-# About Disease Classification Task
+## About Disease Classification Task
 
 In this task, participants are asked to complete two independent binary image classification tasks that involve three unique diagnoses of skin lesions (melanoma, nevus, and seborrheic keratosis). In the first binary classification task, participants are asked to distinguish between melanoma and nevus and seborrheic keratosis. In the second binary classification task, participants are asked to distinguish between seborrheic keratosis and nevus and melanoma.
 
