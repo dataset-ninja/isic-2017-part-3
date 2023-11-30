@@ -1,6 +1,6 @@
 Dataset **ISIC 2017: Part 3 - Disease Classification Task** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/h/s/i6/XklakbVTHLNRQjVwYfQbcFvYkeeK3FAxkUR1cJwUHjkkcckyxqHxlPhRxcCHjl1n3BPHgT5faX3cFq1gG7pmDsCT1qGRN2T9HNxb0lbyA9FZSTggpa4LNFxsnDUd.tar)
+ [Download](https://www.dropbox.com/scl/fi/ytklz26h56qzkc3qrcsdh/isic-2017-part-3-disease-classification-task-DatasetNinja.tar?rlkey=d6xuhsng5stprz7zdmc21ufcn&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
