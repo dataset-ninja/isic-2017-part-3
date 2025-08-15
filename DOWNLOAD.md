@@ -1,6 +1,6 @@
 Dataset **ISIC 2017: Part 3 - Disease Classification Task** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI5NTRfSVNJQyAyMDE3OiBQYXJ0IDMgLSBEaXNlYXNlIENsYXNzaWZpY2F0aW9uIFRhc2svaXNpYy0yMDE3Oi1wYXJ0LTMtLS1kaXNlYXNlLWNsYXNzaWZpY2F0aW9uLXRhc2stRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiZncrNnhjc05YL053RUxhTy82cU1uZWYrTVVaaVUzRE1GM2w0bytDKzFEbz0ifQ==)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjk1NF9JU0lDIDIwMTc6IFBhcnQgMyAtIERpc2Vhc2UgQ2xhc3NpZmljYXRpb24gVGFzay9pc2ljLTIwMTc6LXBhcnQtMy0tLWRpc2Vhc2UtY2xhc3NpZmljYXRpb24tdGFzay1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICI5WVk5eDF5ZDM1c2ZNcE5vWFRRN1JkUjBwSERURzVIWnQ5NTU4a2VBbXZnPSJ9?response-content-disposition=attachment%3B%20filename%3D%22isic-2017%3A-part-3---disease-classification-task-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
